@@ -1,0 +1,15 @@
+https://github.com/github/gitignore
+I don't understand what all the different templates and everything here are but I think that it's interesting that such an important feature of git is open source like this. Is it the same way with all of git?
+
+https://github.com/aseprite/aseprite
+I found this project interesting because I love pixel art and would like to get into creating it, and this is a pixel art creation tool.
+
+https://github.com/topics/monero
+This one is interesting to me because I know basically nothing about cryptocurrency, and I had no idea that they could be open source.
+
+https://github.com/VazkiiMods/Botania
+I love Minecraft, and I didn't know that people use GitHub for making mods and such. I have thought about getting into modding Minecraft so this would be a good way for me to look under the hood of what goes on with them.
+
+https://github.com/MightyPirates/OpenComputers
+
+I know that I just did a Minecraft one, but this one actually blew my mind. This mod allows you to create programmable computers and robots in the game, which is insane in my opinion.
